@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Bhuwnesh Tripathi
 - 👀 I’m interested in Enginnering  of Computer science
+- I have hobbies involving FrontEnd Development And Backend Development using XML ,React js,Java,React Js,Node js,Express,Mongo DB.!!!!
+- 
 
 
 <!---
